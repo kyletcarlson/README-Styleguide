@@ -12,3 +12,11 @@ Joepshoulak
 ---
 
 Let's start with content and layout.
+
+I have used the same layout I am going to suggest in this same README. So let's see what we've got...
+
+Start with a title, at a header level of 1
+
+# Title #
+```# Title #```
+Notice the space inside the ```#```s. Much more readable than ```#Title#```
