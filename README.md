@@ -16,7 +16,7 @@ Start with a title, at a header level of 1
 
 # Title #
 ```# Title #```
-Notice the space inside the ```#```s. Much more readable than ```#Title#```. You'll notice this isn't as large as the first title of the README, You'r enot allowed to have two at that level. Still use ```## ##``` later on, even though it is now the default, for readability.
+Notice the space inside the ```#```s. Much more readable than ```#Title#```. You'll notice this isn't as large as the first title of the README, You're not allowed to have two at that level. Still use ```## ##``` later on, even though it is now the default size for ```# #```, for readability.
 
 ## Overview ##
 Next should come an overview of your application. It should be short and not in great detail, simply stating what it's trying to do, and a basic idea of how it's doing it. This should be at header level 2.
@@ -52,5 +52,5 @@ Now we're an open source _community_, so let's be nice and thank anyone who help
 - StackOverflow user2062950
 Bulleted lists are done like so: ```- StackOverflow user2062950```. Notice the space after the ```-```.
 
-## Formatting
+## Formatting ##
 
