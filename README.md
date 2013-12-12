@@ -5,6 +5,11 @@ This is a style guide for GitHub Flavored Markdown READMEs. It will include synt
 
 Forked with gratitude from: <https://github.com/JoePShoulak/README-Styleguide>
 
+You may also like:
+- <http://daringfireball.net/projects/markdown>
+- <https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
+- <https://help.github.com/articles/github-flavored-markdown>
+
 If you have any suggestions or improvements, please let me know [@kyletcarlson](https://twitter.com/kyletcarlson).
 
 # Title #
