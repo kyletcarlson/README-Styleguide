@@ -42,25 +42,16 @@ Notice again the ```$``` for when we're putting input to the command line, and t
 
 
 ## TODO ##
+Here are the features we want to add soon. It's not a necessary section in a README, but it gives potential users an idea of where your project is going & contributors a starting point for what to help with.
 - Add feature one
+- Fix this bug
 - Foo this
 - Bar that
 - Sell for $1B
-- Profit, literally.
-
-## Acknowledgements ##
-Now we're an open source _community_, so let's be nice and thank anyone who helped us out, using a bulleted list of people who helped out a lot (in no particular order)
-
-- John Skeet
-- David Heinemeier Hansson
-- Yukihiro Matzumoto
-- Linus Torvalds
-- Alan Kays
-
-Bulleted lists are done like so: ```- StackOverflow user2062950```. Notice the space after the ```-```.
+- Profit, literally
 
 
-# Testing #
+## Testing ##
 
 To run the tests:
 
@@ -71,7 +62,7 @@ Please ensure code you submit is tested & the whole suite passes before submitti
 Check out my [RSpec model testing template](https://gist.github.com/kyletcarlson/6234923) for a nice template to test in RSpec. TDD doesn't have to be hard.
 
 
-# Contributing #
+## Contributing ##
 
 1. Fork it.
 2. Create a branch (`git checkout -b my_branch`)
@@ -81,6 +72,18 @@ Check out my [RSpec model testing template](https://gist.github.com/kyletcarlson
 6. Go have a drink & feel good for helping!
 
 Make sure to change the pull request link to your repo instead of the generic link at the bottom of the Markdown code.
+
+
+## Acknowledgements ##
+Now we're an open source _community_, so let's be nice and thank anyone who helped us out, using a bulleted list of people who helped out a lot (in no particular order):
+
+- John Skeet
+- David Heinemeier Hansson
+- Yukihiro Matzumoto
+- Linus Torvalds
+- Alan Kays
+
+Bulleted lists are done like so: ```- StackOverflow user2062950```. Notice the space after the ```-```.
 
 
 
